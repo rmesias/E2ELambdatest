@@ -42,6 +42,9 @@ npx cypress run
 
 ### Output Image
 Browser base: 
+![](/cypress/support/images/browserbase_output.bmp)
+
 Headless:
+![](/cypress/support/images/headless_output.bmp)
 
 
