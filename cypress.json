@@ -1,4 +1,13 @@
 {
-    "testFiles": "**/*.feature",
-    "ignoreTestFiles": "*.ts"
+  "testFiles": ["**/*.{feature, features}"],
+  "ignoreTestFiles": "*.ts",
+  "chromeWebSecurity": false,
+  "experimentalSessionAndOrigin": true,
+  "viewportWidth": 1872,
+  "viewportHeight": 981,
+  "defaultCommandTimeout": 5000,
+  "video": false,
+  "retries": {
+    "runMode": 3
   }
+}
