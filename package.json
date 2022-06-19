@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/rmesias/E2ELambdatest#readme",
   "dependencies": {
+    "cypress": "^9.7.0",
     "tsify": "^5.0.4"
   },
   "devDependencies": {
     "@testing-library/cypress": "^8.0.3",
     "@types/cypress-cucumber-preprocessor": "^4.0.1",
-    "cypress": "^10.1.0",
     "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
